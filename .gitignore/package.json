@@ -9,7 +9,7 @@
         "start": "python main.py"
     },
     "keywords": [],
-    "author": "Ketsap",
+    "author": "",
     "license": "ISC",
     "dependencies": {
         "discord.py": "^1.3.3"
