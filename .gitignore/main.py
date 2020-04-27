@@ -1,3 +1,5 @@
+import json
+
 # importer le module discord.py
 import discord
 
